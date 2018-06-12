@@ -1,0 +1,39 @@
+{
+    "name": "BotApplication4",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "http://localhost:3978/api/messages",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "BotApplication4"
+        },
+        {
+            "appId": "",
+            "id": "49eb5430-6592-11e8-8dd1-974afdb42f12",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "BotApplication4 (2)"
+        },
+        {
+            "appId": "",
+            "id": "60d1f210-659e-11e8-8dd1-974afdb42f12",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "ChatBot_Test"
+        },
+        {
+            "appId": "",
+            "id": "2c2a57d0-67ee-11e8-8dd1-974afdb42f12",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:36711/AnnotatedSandwichBot",
+            "name": "SamplesTest"
+        }
+    ]
+}
